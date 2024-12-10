@@ -1,0 +1,87 @@
+/* CSS for graph containers */
+.graph-container {
+    width: 650px;
+    margin:0 auto;
+    border:0.5px solid black;
+    padding:10px;
+    margin-bottom:20px;
+    justify-content: center; 
+    align-items: center; 
+    text-align: center;
+    background-color: #F0F6F6;
+    border-radius: 3px;
+    
+}
+.graph-style {
+    width:650px;
+    height:550px;
+    margin:0 auto;
+}
+.dropdown-style {
+    width:650px;
+    height:40px;
+    margin:0 auto;
+}
+.corr-graph-container {
+    width: 650px;
+    height: 600px;
+    margin:0 auto;
+    border:0.5px solid black;
+    padding:10px;
+    margin-bottom:20px;
+}
+.corr-graph-style {
+    width:650px;
+    height:550px;
+    margin:0 auto;
+}
+.full-container {
+    display: flex;
+    padding:10px;
+    flex-direction: column;
+    width: 700px;
+    margin: 0 auto; 
+    justify-content: center; 
+    align-items: center; 
+    text-align: center;
+    box-sizing: border-box; 
+    background-color: #E3F2F2;
+    border-radius: 5px;
+}
+.text-style {
+    text-align: left;
+    margin-bottom: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.h2-style {
+    text-align: left;
+    width:650px;
+    padding:10px 20px;
+    background-color: #42BFDD;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    color: #084B83;
+}
+.h3-style {
+    text-align: left;
+    width:650px;
+    padding:10px 20px;
+    background-color: #7FD3E1;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    color: black;
+}
+.title-box {
+    background-color: #084B83;
+    padding: 10px 20px; 
+    text-align: center; 
+    width: fit-content; 
+    margin: 0 auto; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: white;
+    border-radius: 5px;
+}
+body {
+    background-color: #F0F6F6;
+    margin: 0; 
+}

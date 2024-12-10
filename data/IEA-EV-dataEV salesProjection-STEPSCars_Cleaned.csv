@@ -1,0 +1,452 @@
+region,category,powertrain,year,unit,value,parameter_EV sales,parameter_EV sales share,parameter_EV stock,parameter_EV stock share,parameter_Electricity demand,parameter_Oil displacement Mbd,"parameter_Oil displacement, million lge",powertrain_BEV,powertrain_EV,powertrain_FCEV,powertrain_PHEV
+China,Projection-STEPS,EV,2020,GWh,9600.0,False,False,False,False,True,False,False,False,True,False,False
+China,Projection-STEPS,EV,2020,Milion barrels per day,0.0509999990463256,False,False,False,False,False,True,False,False,True,False,False
+China,Projection-STEPS,EV,2020,"Oil displacement, million lge",3000.0,False,False,False,False,False,False,True,False,True,False,False
+China,Projection-STEPS,BEV,2020,Vehicles,920000.0,True,False,False,False,False,False,False,True,False,False,False
+China,Projection-STEPS,BEV,2020,Vehicles,3500000.0,False,False,True,False,False,False,False,True,False,False,False
+China,Projection-STEPS,PHEV,2020,Vehicles,990000.0,False,False,True,False,False,False,False,False,False,False,True
+China,Projection-STEPS,PHEV,2020,Vehicles,220000.0,True,False,False,False,False,False,False,False,False,False,True
+China,Projection-STEPS,EV,2020,percent,1.899999976158142,False,False,False,True,False,False,False,False,True,False,False
+China,Projection-STEPS,EV,2020,percent,5.699999809265137,False,True,False,False,False,False,False,False,True,False,False
+China,Projection-STEPS,EV,2021,percent,16.0,False,True,False,False,False,False,False,False,True,False,False
+China,Projection-STEPS,EV,2021,percent,3.0999999046325684,False,False,False,True,False,False,False,False,True,False,False
+China,Projection-STEPS,PHEV,2021,Vehicles,550000.0,True,False,False,False,False,False,False,False,False,False,True
+China,Projection-STEPS,PHEV,2021,Vehicles,1600000.0,False,False,True,False,False,False,False,False,False,False,True
+China,Projection-STEPS,BEV,2021,Vehicles,6200000.0,False,False,True,False,False,False,False,True,False,False,False
+China,Projection-STEPS,FCEV,2021,Vehicles,19.0,True,False,False,False,False,False,False,False,False,True,False
+China,Projection-STEPS,FCEV,2021,Vehicles,19.0,False,False,True,False,False,False,False,False,False,True,False
+China,Projection-STEPS,BEV,2021,Vehicles,2700000.0,True,False,False,False,False,False,False,True,False,False,False
+China,Projection-STEPS,EV,2021,Milion barrels per day,0.0979999974370002,False,False,False,False,False,True,False,False,True,False,False
+China,Projection-STEPS,EV,2021,"Oil displacement, million lge",5800.0,False,False,False,False,False,False,True,False,True,False,False
+China,Projection-STEPS,EV,2021,GWh,18000.0,False,False,False,False,True,False,False,False,True,False,False
+China,Projection-STEPS,EV,2022,GWh,23000.0,False,False,False,False,True,False,False,False,True,False,False
+China,Projection-STEPS,EV,2022,Milion barrels per day,0.1599999964237213,False,False,False,False,False,True,False,False,True,False,False
+China,Projection-STEPS,EV,2022,"Oil displacement, million lge",9600.0,False,False,False,False,False,False,True,False,True,False,False
+China,Projection-STEPS,BEV,2022,Vehicles,4400000.0,True,False,False,False,False,False,False,True,False,False,False
+China,Projection-STEPS,FCEV,2022,Vehicles,240.0,False,False,True,False,False,False,False,False,False,True,False
+China,Projection-STEPS,FCEV,2022,Vehicles,240.0,True,False,False,False,False,False,False,False,False,True,False
+China,Projection-STEPS,BEV,2022,Vehicles,11000000.0,False,False,True,False,False,False,False,True,False,False,False
+China,Projection-STEPS,PHEV,2022,Vehicles,3100000.0,False,False,True,False,False,False,False,False,False,False,True
+China,Projection-STEPS,PHEV,2022,Vehicles,1500000.0,True,False,False,False,False,False,False,False,False,False,True
+China,Projection-STEPS,EV,2022,percent,5.099999904632568,False,False,False,True,False,False,False,False,True,False,False
+China,Projection-STEPS,EV,2022,percent,29.0,False,True,False,False,False,False,False,False,True,False,False
+China,Projection-STEPS,EV,2023,percent,38.0,False,True,False,False,False,False,False,False,True,False,False
+China,Projection-STEPS,EV,2023,percent,7.599999904632568,False,False,False,True,False,False,False,False,True,False,False
+China,Projection-STEPS,PHEV,2023,Vehicles,2700000.0,True,False,False,False,False,False,False,False,False,False,True
+China,Projection-STEPS,PHEV,2023,Vehicles,5800000.0,False,False,True,False,False,False,False,False,False,False,True
+China,Projection-STEPS,BEV,2023,Vehicles,16000000.0,False,False,True,False,False,False,False,True,False,False,False
+China,Projection-STEPS,FCEV,2023,Vehicles,520.0,True,False,False,False,False,False,False,False,False,True,False
+China,Projection-STEPS,FCEV,2023,Vehicles,760.0,False,False,True,False,False,False,False,False,False,True,False
+China,Projection-STEPS,BEV,2023,Vehicles,5400000.0,True,False,False,False,False,False,False,True,False,False,False
+China,Projection-STEPS,EV,2023,Milion barrels per day,0.3100000023841858,False,False,False,False,False,True,False,False,True,False,False
+China,Projection-STEPS,EV,2023,"Oil displacement, million lge",19000.0,False,False,False,False,False,False,True,False,True,False,False
+China,Projection-STEPS,EV,2023,GWh,38000.0,False,False,False,False,True,False,False,False,True,False,False
+China,Projection-STEPS,EV,2025,GWh,88000.0,False,False,False,False,True,False,False,False,True,False,False
+China,Projection-STEPS,EV,2025,Milion barrels per day,0.6100000143051147,False,False,False,False,False,True,False,False,True,False,False
+China,Projection-STEPS,EV,2025,"Oil displacement, million lge",36000.0,False,False,False,False,False,False,True,False,True,False,False
+China,Projection-STEPS,BEV,2025,Vehicles,7600000.0,True,False,False,False,False,False,False,True,False,False,False
+China,Projection-STEPS,FCEV,2025,Vehicles,8000.0,True,False,False,False,False,False,False,False,False,True,False
+China,Projection-STEPS,PHEV,2025,Vehicles,3400000.0,True,False,False,False,False,False,False,False,False,False,True
+China,Projection-STEPS,BEV,2025,Vehicles,30000000.0,False,False,True,False,False,False,False,True,False,False,False
+China,Projection-STEPS,FCEV,2025,Vehicles,8000.0,False,False,True,False,False,False,False,False,False,True,False
+China,Projection-STEPS,PHEV,2025,Vehicles,12000000.0,False,False,True,False,False,False,False,False,False,False,True
+China,Projection-STEPS,EV,2025,percent,14.0,False,False,False,True,False,False,False,False,True,False,False
+China,Projection-STEPS,EV,2025,percent,49.0,False,True,False,False,False,False,False,False,True,False,False
+China,Projection-STEPS,EV,2030,percent,68.0,False,True,False,False,False,False,False,False,True,False,False
+China,Projection-STEPS,BEV,2030,Vehicles,87000000.0,False,False,True,False,False,False,False,True,False,False,False
+China,Projection-STEPS,FCEV,2030,Vehicles,110000.0,False,False,True,False,False,False,False,False,False,True,False
+China,Projection-STEPS,PHEV,2030,Vehicles,28000000.0,False,False,True,False,False,False,False,False,False,False,True
+China,Projection-STEPS,EV,2030,percent,31.0,False,False,False,True,False,False,False,False,True,False,False
+China,Projection-STEPS,BEV,2030,Vehicles,15000000.0,True,False,False,False,False,False,False,True,False,False,False
+China,Projection-STEPS,FCEV,2030,Vehicles,33000.0,True,False,False,False,False,False,False,False,False,True,False
+China,Projection-STEPS,PHEV,2030,Vehicles,2900000.0,True,False,False,False,False,False,False,False,False,False,True
+China,Projection-STEPS,EV,2030,Milion barrels per day,1.5,False,False,False,False,False,True,False,False,True,False,False
+China,Projection-STEPS,EV,2030,"Oil displacement, million lge",92000.0,False,False,False,False,False,False,True,False,True,False,False
+China,Projection-STEPS,EV,2030,GWh,230000.0,False,False,False,False,True,False,False,False,True,False,False
+China,Projection-STEPS,EV,2035,GWh,400000.0,False,False,False,False,True,False,False,False,True,False,False
+China,Projection-STEPS,EV,2035,Milion barrels per day,2.5999999046325684,False,False,False,False,False,True,False,False,True,False,False
+China,Projection-STEPS,EV,2035,"Oil displacement, million lge",150000.0,False,False,False,False,False,False,True,False,True,False,False
+China,Projection-STEPS,EV,2035,percent,52.0,False,False,False,True,False,False,False,False,True,False,False
+China,Projection-STEPS,BEV,2035,Vehicles,20000000.0,True,False,False,False,False,False,False,True,False,False,False
+China,Projection-STEPS,FCEV,2035,Vehicles,70000.0,True,False,False,False,False,False,False,False,False,True,False
+China,Projection-STEPS,PHEV,2035,Vehicles,2100000.0,True,False,False,False,False,False,False,False,False,False,True
+China,Projection-STEPS,BEV,2035,Vehicles,180000000.0,False,False,True,False,False,False,False,True,False,False,False
+China,Projection-STEPS,FCEV,2035,Vehicles,370000.0,False,False,True,False,False,False,False,False,False,True,False
+China,Projection-STEPS,PHEV,2035,Vehicles,38000000.0,False,False,True,False,False,False,False,False,False,False,True
+China,Projection-STEPS,EV,2035,percent,85.0,False,True,False,False,False,False,False,False,True,False,False
+Europe,Projection-STEPS,BEV,2020,Vehicles,760000.0,True,False,False,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,BEV,2020,Vehicles,1700000.0,False,False,True,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,FCEV,2020,Vehicles,740.0,True,False,False,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,FCEV,2020,Vehicles,2400.0,False,False,True,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,PHEV,2020,Vehicles,640000.0,True,False,False,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,PHEV,2020,Vehicles,1400000.0,False,False,True,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,EV,2020,GWh,4600.0,False,False,False,False,True,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2020,Milion barrels per day,0.0320000015199184,False,False,False,False,False,True,False,False,True,False,False
+Europe,Projection-STEPS,EV,2020,"Oil displacement, million lge",1900.0,False,False,False,False,False,False,True,False,True,False,False
+Europe,Projection-STEPS,EV,2020,percent,10.0,False,True,False,False,False,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2020,percent,1.100000023841858,False,False,False,True,False,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2021,percent,1.7999999523162842,False,False,False,True,False,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2021,percent,17.0,False,True,False,False,False,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2021,Milion barrels per day,0.061999998986721,False,False,False,False,False,True,False,False,True,False,False
+Europe,Projection-STEPS,EV,2021,"Oil displacement, million lge",3600.0,False,False,False,False,False,False,True,False,True,False,False
+Europe,Projection-STEPS,EV,2021,GWh,7800.0,False,False,False,False,True,False,False,False,True,False,False
+Europe,Projection-STEPS,PHEV,2021,Vehicles,2500000.0,False,False,True,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,PHEV,2021,Vehicles,1100000.0,True,False,False,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,FCEV,2021,Vehicles,3400.0,False,False,True,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,FCEV,2021,Vehicles,960.0,True,False,False,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,BEV,2021,Vehicles,2900000.0,False,False,True,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,BEV,2021,Vehicles,1200000.0,True,False,False,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,BEV,2022,Vehicles,1600000.0,True,False,False,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,BEV,2022,Vehicles,4400000.0,False,False,True,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,FCEV,2022,Vehicles,1300.0,True,False,False,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,FCEV,2022,Vehicles,4700.0,False,False,True,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,PHEV,2022,Vehicles,1100000.0,True,False,False,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,PHEV,2022,Vehicles,3400000.0,False,False,True,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,EV,2022,GWh,11000.0,False,False,False,False,True,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2022,Milion barrels per day,0.1000000014901161,False,False,False,False,False,True,False,False,True,False,False
+Europe,Projection-STEPS,EV,2022,"Oil displacement, million lge",6000.0,False,False,False,False,False,False,True,False,True,False,False
+Europe,Projection-STEPS,EV,2022,percent,20.0,False,True,False,False,False,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2022,percent,2.700000047683716,False,False,False,True,False,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2023,percent,3.799999952316284,False,False,False,True,False,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2023,percent,21.0,False,True,False,False,False,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2023,GWh,29000.0,False,False,False,False,True,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2023,Milion barrels per day,0.1700000017881393,False,False,False,False,False,True,False,False,True,False,False
+Europe,Projection-STEPS,EV,2023,"Oil displacement, million lge",10000.0,False,False,False,False,False,False,True,False,True,False,False
+Europe,Projection-STEPS,PHEV,2023,Vehicles,4500000.0,False,False,True,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,PHEV,2023,Vehicles,1100000.0,True,False,False,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,FCEV,2023,Vehicles,5500.0,False,False,True,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,FCEV,2023,Vehicles,820.0,True,False,False,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,BEV,2023,Vehicles,6700000.0,False,False,True,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,BEV,2023,Vehicles,2200000.0,True,False,False,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,BEV,2025,Vehicles,3300000.0,True,False,False,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,FCEV,2025,Vehicles,3800.0,True,False,False,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,PHEV,2025,Vehicles,1500000.0,True,False,False,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,BEV,2025,Vehicles,12000000.0,False,False,True,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,FCEV,2025,Vehicles,5900.0,False,False,True,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,PHEV,2025,Vehicles,7200000.0,False,False,True,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,EV,2025,Milion barrels per day,0.3199999928474426,False,False,False,False,False,True,False,False,True,False,False
+Europe,Projection-STEPS,EV,2025,"Oil displacement, million lge",18000.0,False,False,False,False,False,False,True,False,True,False,False
+Europe,Projection-STEPS,EV,2025,GWh,56000.0,False,False,False,False,True,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2025,percent,31.0,False,True,False,False,False,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2025,percent,7.0,False,False,False,True,False,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2030,percent,18.0,False,False,False,True,False,False,False,False,True,False,False
+Europe,Projection-STEPS,BEV,2030,Vehicles,6800000.0,True,False,False,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,FCEV,2030,Vehicles,4900.0,True,False,False,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,PHEV,2030,Vehicles,2400000.0,True,False,False,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,BEV,2030,Vehicles,36000000.0,False,False,True,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,FCEV,2030,Vehicles,32000.0,False,False,True,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,PHEV,2030,Vehicles,16000000.0,False,False,True,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,EV,2030,percent,60.0,False,True,False,False,False,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2030,GWh,160000.0,False,False,False,False,True,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2030,Milion barrels per day,0.75,False,False,False,False,False,True,False,False,True,False,False
+Europe,Projection-STEPS,EV,2030,"Oil displacement, million lge",43000.0,False,False,False,False,False,False,True,False,True,False,False
+Europe,Projection-STEPS,EV,2035,Milion barrels per day,1.5,False,False,False,False,False,True,False,False,True,False,False
+Europe,Projection-STEPS,EV,2035,"Oil displacement, million lge",84000.0,False,False,False,False,False,False,True,False,True,False,False
+Europe,Projection-STEPS,EV,2035,GWh,320000.0,False,False,False,False,True,False,False,False,True,False,False
+Europe,Projection-STEPS,EV,2035,percent,87.0,False,True,False,False,False,False,False,False,True,False,False
+Europe,Projection-STEPS,BEV,2035,Vehicles,13000000.0,True,False,False,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,FCEV,2035,Vehicles,10000.0,True,False,False,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,PHEV,2035,Vehicles,620000.0,True,False,False,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,BEV,2035,Vehicles,87000000.0,False,False,True,False,False,False,False,True,False,False,False
+Europe,Projection-STEPS,FCEV,2035,Vehicles,71000.0,False,False,True,False,False,False,False,False,False,True,False
+Europe,Projection-STEPS,PHEV,2035,Vehicles,26000000.0,False,False,True,False,False,False,False,False,False,False,True
+Europe,Projection-STEPS,EV,2035,percent,38.0,False,False,False,True,False,False,False,False,True,False,False
+India,Projection-STEPS,EV,2020,Milion barrels per day,0.0001500000071246,False,False,False,False,False,True,False,False,True,False,False
+India,Projection-STEPS,EV,2020,"Oil displacement, million lge",8.5,False,False,False,False,False,False,True,False,True,False,False
+India,Projection-STEPS,EV,2020,percent,0.1199999973177909,False,True,False,False,False,False,False,False,True,False,False
+India,Projection-STEPS,EV,2020,GWh,0.0230000000447034,False,False,False,False,True,False,False,False,True,False,False
+India,Projection-STEPS,EV,2020,percent,0.0289999991655349,False,False,False,True,False,False,False,False,True,False,False
+India,Projection-STEPS,BEV,2020,Vehicles,3100.0,True,False,False,False,False,False,False,True,False,False,False
+India,Projection-STEPS,BEV,2020,Vehicles,12000.0,False,False,True,False,False,False,False,True,False,False,False
+India,Projection-STEPS,PHEV,2020,Vehicles,50.0,False,False,True,False,False,False,False,False,False,False,True
+India,Projection-STEPS,PHEV,2020,Vehicles,43.0,True,False,False,False,False,False,False,False,False,False,True
+India,Projection-STEPS,PHEV,2021,Vehicles,50.0,True,False,False,False,False,False,False,False,False,False,True
+India,Projection-STEPS,PHEV,2021,Vehicles,100.0,False,False,True,False,False,False,False,False,False,False,True
+India,Projection-STEPS,BEV,2021,Vehicles,23000.0,False,False,True,False,False,False,False,True,False,False,False
+India,Projection-STEPS,FCEV,2021,Vehicles,1.0,True,False,False,False,False,False,False,False,False,True,False
+India,Projection-STEPS,FCEV,2021,Vehicles,1.0,False,False,True,False,False,False,False,False,False,True,False
+India,Projection-STEPS,BEV,2021,Vehicles,12000.0,True,False,False,False,False,False,False,True,False,False,False
+India,Projection-STEPS,EV,2021,percent,0.0540000014007091,False,False,False,True,False,False,False,False,True,False,False
+India,Projection-STEPS,EV,2021,GWh,0.0529999993741512,False,False,False,False,True,False,False,False,True,False,False
+India,Projection-STEPS,EV,2021,percent,0.3499999940395355,False,True,False,False,False,False,False,False,True,False,False
+India,Projection-STEPS,EV,2021,Milion barrels per day,0.0003499999875202,False,False,False,False,False,True,False,False,True,False,False
+India,Projection-STEPS,EV,2021,"Oil displacement, million lge",20.0,False,False,False,False,False,False,True,False,True,False,False
+India,Projection-STEPS,EV,2022,Milion barrels per day,0.001300000003539,False,False,False,False,False,True,False,False,True,False,False
+India,Projection-STEPS,EV,2022,"Oil displacement, million lge",72.0,False,False,False,False,False,False,True,False,True,False,False
+India,Projection-STEPS,EV,2022,percent,1.2000000476837158,False,True,False,False,False,False,False,False,True,False,False
+India,Projection-STEPS,EV,2022,GWh,0.0740000009536743,False,False,False,False,True,False,False,False,True,False,False
+India,Projection-STEPS,EV,2022,percent,0.1500000059604644,False,False,False,True,False,False,False,False,True,False,False
+India,Projection-STEPS,BEV,2022,Vehicles,48000.0,True,False,False,False,False,False,False,True,False,False,False
+India,Projection-STEPS,FCEV,2022,Vehicles,3.0,False,False,True,False,False,False,False,False,False,True,False
+India,Projection-STEPS,FCEV,2022,Vehicles,2.0,True,False,False,False,False,False,False,False,False,True,False
+India,Projection-STEPS,BEV,2022,Vehicles,72000.0,False,False,True,False,False,False,False,True,False,False,False
+India,Projection-STEPS,PHEV,2022,Vehicles,120.0,False,False,True,False,False,False,False,False,False,False,True
+India,Projection-STEPS,PHEV,2022,Vehicles,23.0,True,False,False,False,False,False,False,False,False,False,True
+India,Projection-STEPS,PHEV,2023,Vehicles,270.0,True,False,False,False,False,False,False,False,False,False,True
+India,Projection-STEPS,PHEV,2023,Vehicles,390.0,False,False,True,False,False,False,False,False,False,False,True
+India,Projection-STEPS,BEV,2023,Vehicles,150000.0,False,False,True,False,False,False,False,True,False,False,False
+India,Projection-STEPS,FCEV,2023,Vehicles,3.0,False,False,True,False,False,False,False,False,False,True,False
+India,Projection-STEPS,BEV,2023,Vehicles,82000.0,True,False,False,False,False,False,False,True,False,False,False
+India,Projection-STEPS,EV,2023,percent,0.3100000023841858,False,False,False,True,False,False,False,False,True,False,False
+India,Projection-STEPS,EV,2023,GWh,410.0,False,False,False,False,True,False,False,False,True,False,False
+India,Projection-STEPS,EV,2023,percent,2.0,False,True,False,False,False,False,False,False,True,False,False
+India,Projection-STEPS,EV,2023,Milion barrels per day,0.002600000007078,False,False,False,False,False,True,False,False,True,False,False
+India,Projection-STEPS,EV,2023,"Oil displacement, million lge",150.0,False,False,False,False,False,False,True,False,True,False,False
+India,Projection-STEPS,EV,2025,Milion barrels per day,0.0099999997764825,False,False,False,False,False,True,False,False,True,False,False
+India,Projection-STEPS,EV,2025,"Oil displacement, million lge",580.0,False,False,False,False,False,False,True,False,True,False,False
+India,Projection-STEPS,EV,2025,percent,7.0,False,True,False,False,False,False,False,False,True,False,False
+India,Projection-STEPS,BEV,2025,Vehicles,320000.0,True,False,False,False,False,False,False,True,False,False,False
+India,Projection-STEPS,PHEV,2025,Vehicles,4200.0,True,False,False,False,False,False,False,False,False,False,True
+India,Projection-STEPS,BEV,2025,Vehicles,590000.0,False,False,True,False,False,False,False,True,False,False,False
+India,Projection-STEPS,PHEV,2025,Vehicles,4200.0,False,False,True,False,False,False,False,False,False,False,True
+India,Projection-STEPS,EV,2025,GWh,1600.0,False,False,False,False,True,False,False,False,True,False,False
+India,Projection-STEPS,EV,2025,percent,1.0,False,False,False,True,False,False,False,False,True,False,False
+India,Projection-STEPS,EV,2030,percent,5.0,False,False,False,True,False,False,False,False,True,False,False
+India,Projection-STEPS,EV,2030,GWh,12000.0,False,False,False,False,True,False,False,False,True,False,False
+India,Projection-STEPS,BEV,2030,Vehicles,1000000.0,True,False,False,False,False,False,False,True,False,False,False
+India,Projection-STEPS,PHEV,2030,Vehicles,6500.0,True,False,False,False,False,False,False,False,False,False,True
+India,Projection-STEPS,BEV,2030,Vehicles,4000000.0,False,False,True,False,False,False,False,True,False,False,False
+India,Projection-STEPS,PHEV,2030,Vehicles,32000.0,False,False,True,False,False,False,False,False,False,False,True
+India,Projection-STEPS,EV,2030,percent,18.0,False,True,False,False,False,False,False,False,True,False,False
+India,Projection-STEPS,EV,2030,Milion barrels per day,0.0649999976158142,False,False,False,False,False,True,False,False,True,False,False
+India,Projection-STEPS,EV,2030,"Oil displacement, million lge",3800.0,False,False,False,False,False,False,True,False,True,False,False
+India,Projection-STEPS,EV,2035,Milion barrels per day,0.1599999964237213,False,False,False,False,False,True,False,False,True,False,False
+India,Projection-STEPS,EV,2035,"Oil displacement, million lge",9300.0,False,False,False,False,False,False,True,False,True,False,False
+India,Projection-STEPS,EV,2035,percent,25.0,False,True,False,False,False,False,False,False,True,False,False
+India,Projection-STEPS,BEV,2035,Vehicles,1700000.0,True,False,False,False,False,False,False,True,False,False,False
+India,Projection-STEPS,PHEV,2035,Vehicles,9000.0,True,False,False,False,False,False,False,False,False,False,True
+India,Projection-STEPS,BEV,2035,Vehicles,11000000.0,False,False,True,False,False,False,False,True,False,False,False
+India,Projection-STEPS,PHEV,2035,Vehicles,72000.0,False,False,True,False,False,False,False,False,False,False,True
+India,Projection-STEPS,EV,2035,GWh,31000.0,False,False,False,False,True,False,False,False,True,False,False
+India,Projection-STEPS,EV,2035,percent,12.0,False,False,False,True,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2020,GWh,1700.0,False,False,False,False,True,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2020,Milion barrels per day,0.0109999999403953,False,False,False,False,False,True,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2020,"Oil displacement, million lge",610.0,False,False,False,False,False,False,True,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2020,percent,0.7900000214576721,False,True,False,False,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2020,percent,0.1899999976158142,False,False,False,True,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,BEV,2020,Vehicles,110000.0,True,False,False,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,BEV,2020,Vehicles,450000.0,False,False,True,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,FCEV,2020,Vehicles,5500.0,True,False,False,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,FCEV,2020,Vehicles,14000.0,False,False,True,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,PHEV,2020,Vehicles,330000.0,False,False,True,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,PHEV,2020,Vehicles,57000.0,True,False,False,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,PHEV,2021,Vehicles,110000.0,True,False,False,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,PHEV,2021,Vehicles,440000.0,False,False,True,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,FCEV,2021,Vehicles,26000.0,False,False,True,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,FCEV,2021,Vehicles,12000.0,True,False,False,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,BEV,2021,Vehicles,660000.0,False,False,True,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,BEV,2021,Vehicles,210000.0,True,False,False,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,EV,2021,percent,0.2599999904632568,False,False,False,True,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2021,percent,1.399999976158142,False,True,False,False,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2021,Milion barrels per day,0.0170000009238719,False,False,False,False,False,True,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2021,"Oil displacement, million lge",980.0,False,False,False,False,False,False,True,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2021,GWh,1900.0,False,False,False,False,True,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2022,GWh,2000.0,False,False,False,False,True,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2022,Milion barrels per day,0.0299999993294477,False,False,False,False,False,True,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2022,"Oil displacement, million lge",1700.0,False,False,False,False,False,False,True,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2022,percent,2.5,False,True,False,False,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2022,percent,0.3799999952316284,False,False,False,True,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,BEV,2022,Vehicles,410000.0,True,False,False,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,BEV,2022,Vehicles,1100000.0,False,False,True,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,FCEV,2022,Vehicles,11000.0,True,False,False,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,FCEV,2022,Vehicles,37000.0,False,False,True,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,PHEV,2022,Vehicles,550000.0,False,False,True,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,PHEV,2022,Vehicles,120000.0,True,False,False,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,PHEV,2023,Vehicles,200000.0,True,False,False,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,PHEV,2023,Vehicles,740000.0,False,False,True,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,FCEV,2023,Vehicles,42000.0,False,False,True,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,FCEV,2023,Vehicles,4600.0,True,False,False,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,BEV,2023,Vehicles,1700000.0,False,False,True,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,BEV,2023,Vehicles,690000.0,True,False,False,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,EV,2023,percent,0.5799999833106995,False,False,False,True,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2023,percent,3.900000095367432,False,True,False,False,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2023,Milion barrels per day,0.0549999997019767,False,False,False,False,False,True,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2023,"Oil displacement, million lge",3200.0,False,False,False,False,False,False,True,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2023,GWh,7900.0,False,False,False,False,True,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2025,GWh,20000.0,False,False,False,False,True,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2025,Milion barrels per day,0.1199999973177909,False,False,False,False,False,True,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2025,"Oil displacement, million lge",7100.0,False,False,False,False,False,False,True,False,True,False,False
+Rest of the world,Projection-STEPS,BEV,2025,Vehicles,1300000.0,True,False,False,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,FCEV,2025,Vehicles,26000.0,True,False,False,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,PHEV,2025,Vehicles,370000.0,True,False,False,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,BEV,2025,Vehicles,4000000.0,False,False,True,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,FCEV,2025,Vehicles,66000.0,False,False,True,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,PHEV,2025,Vehicles,1400000.0,False,False,True,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,EV,2025,percent,7.0,False,True,False,False,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2025,percent,1.0,False,False,False,True,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2030,percent,4.0,False,False,False,True,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2030,percent,14.0,False,True,False,False,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,BEV,2030,Vehicles,3600000.0,True,False,False,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,FCEV,2030,Vehicles,50000.0,True,False,False,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,PHEV,2030,Vehicles,750000.0,True,False,False,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,BEV,2030,Vehicles,17000000.0,False,False,True,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,FCEV,2030,Vehicles,250000.0,False,False,True,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,PHEV,2030,Vehicles,4100000.0,False,False,True,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,EV,2030,Milion barrels per day,0.449999988079071,False,False,False,False,False,True,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2030,"Oil displacement, million lge",26000.0,False,False,False,False,False,False,True,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2030,GWh,82000.0,False,False,False,False,True,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2035,GWh,200000.0,False,False,False,False,True,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2035,Milion barrels per day,1.100000023841858,False,False,False,False,False,True,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2035,"Oil displacement, million lge",62000.0,False,False,False,False,False,False,True,False,True,False,False
+Rest of the world,Projection-STEPS,BEV,2035,Vehicles,6400000.0,True,False,False,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,FCEV,2035,Vehicles,99000.0,True,False,False,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,PHEV,2035,Vehicles,960000.0,True,False,False,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,BEV,2035,Vehicles,43000000.0,False,False,True,False,False,False,False,True,False,False,False
+Rest of the world,Projection-STEPS,FCEV,2035,Vehicles,610000.0,False,False,True,False,False,False,False,False,False,True,False
+Rest of the world,Projection-STEPS,PHEV,2035,Vehicles,8300000.0,False,False,True,False,False,False,False,False,False,False,True
+Rest of the world,Projection-STEPS,EV,2035,percent,20.0,False,True,False,False,False,False,False,False,True,False,False
+Rest of the world,Projection-STEPS,EV,2035,percent,10.0,False,False,False,True,False,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2020,percent,2.299999952316284,False,True,False,False,False,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2020,percent,0.7699999809265137,False,False,False,True,False,False,False,False,True,False,False
+USA,Projection-STEPS,BEV,2020,Vehicles,230000.0,True,False,False,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,BEV,2020,Vehicles,1100000.0,False,False,True,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,FCEV,2020,Vehicles,1200.0,True,False,False,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,FCEV,2020,Vehicles,9200.0,False,False,True,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,PHEV,2020,Vehicles,64000.0,True,False,False,False,False,False,False,False,False,False,True
+USA,Projection-STEPS,EV,2020,GWh,5400.0,False,False,False,False,True,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2020,Milion barrels per day,0.0430000014603138,False,False,False,False,False,True,False,False,True,False,False
+USA,Projection-STEPS,EV,2020,"Oil displacement, million lge",2500.0,False,False,False,False,False,False,True,False,True,False,False
+USA,Projection-STEPS,PHEV,2020,Vehicles,640000.0,False,False,True,False,False,False,False,False,False,False,True
+USA,Projection-STEPS,PHEV,2021,Vehicles,720000.0,False,False,True,False,False,False,False,False,False,False,True
+USA,Projection-STEPS,EV,2021,Milion barrels per day,0.0689999982714653,False,False,False,False,False,True,False,False,True,False,False
+USA,Projection-STEPS,EV,2021,"Oil displacement, million lge",4000.0,False,False,False,False,False,False,True,False,True,False,False
+USA,Projection-STEPS,EV,2021,GWh,7000.0,False,False,False,False,True,False,False,False,True,False,False
+USA,Projection-STEPS,PHEV,2021,Vehicles,160000.0,True,False,False,False,False,False,False,False,False,False,True
+USA,Projection-STEPS,FCEV,2021,Vehicles,12000.0,False,False,True,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,FCEV,2021,Vehicles,3100.0,True,False,False,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,BEV,2021,Vehicles,1500000.0,False,False,True,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,BEV,2021,Vehicles,470000.0,True,False,False,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,EV,2021,percent,0.949999988079071,False,False,False,True,False,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2021,percent,4.699999809265137,False,True,False,False,False,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2022,percent,7.400000095367432,False,True,False,False,False,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2022,percent,1.2999999523162842,False,False,False,True,False,False,False,False,True,False,False
+USA,Projection-STEPS,BEV,2022,Vehicles,800000.0,True,False,False,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,BEV,2022,Vehicles,2100000.0,False,False,True,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,FCEV,2022,Vehicles,2700.0,True,False,False,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,FCEV,2022,Vehicles,15000.0,False,False,True,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,EV,2022,GWh,7200.0,False,False,False,False,True,False,False,False,True,False,False
+USA,Projection-STEPS,PHEV,2022,Vehicles,190000.0,True,False,False,False,False,False,False,False,False,False,True
+USA,Projection-STEPS,EV,2022,Milion barrels per day,0.1099999994039535,False,False,False,False,False,True,False,False,True,False,False
+USA,Projection-STEPS,EV,2022,"Oil displacement, million lge",6200.0,False,False,False,False,False,False,True,False,True,False,False
+USA,Projection-STEPS,PHEV,2022,Vehicles,910000.0,False,False,True,False,False,False,False,False,False,False,True
+USA,Projection-STEPS,PHEV,2023,Vehicles,1300000.0,False,False,True,False,False,False,False,False,False,False,True
+USA,Projection-STEPS,EV,2023,Milion barrels per day,0.1700000017881393,False,False,False,False,False,True,False,False,True,False,False
+USA,Projection-STEPS,EV,2023,"Oil displacement, million lge",9700.0,False,False,False,False,False,False,True,False,True,False,False
+USA,Projection-STEPS,PHEV,2023,Vehicles,290000.0,True,False,False,False,False,False,False,False,False,False,True
+USA,Projection-STEPS,EV,2023,GWh,22000.0,False,False,False,False,True,False,False,False,True,False,False
+USA,Projection-STEPS,FCEV,2023,Vehicles,18000.0,False,False,True,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,FCEV,2023,Vehicles,3000.0,True,False,False,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,BEV,2023,Vehicles,3500000.0,False,False,True,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,BEV,2023,Vehicles,1100000.0,True,False,False,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,EV,2023,percent,2.0999999046325684,False,False,False,True,False,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2023,percent,9.5,False,True,False,False,False,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2025,percent,20.0,False,True,False,False,False,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2025,percent,4.0,False,False,False,True,False,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2025,GWh,52000.0,False,False,False,False,True,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2025,Milion barrels per day,0.3499999940395355,False,False,False,False,False,True,False,False,True,False,False
+USA,Projection-STEPS,EV,2025,"Oil displacement, million lge",20000.0,False,False,False,False,False,False,True,False,True,False,False
+USA,Projection-STEPS,BEV,2025,Vehicles,2500000.0,True,False,False,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,FCEV,2025,Vehicles,3800.0,True,False,False,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,PHEV,2025,Vehicles,560000.0,True,False,False,False,False,False,False,False,False,False,True
+USA,Projection-STEPS,BEV,2025,Vehicles,7500000.0,False,False,True,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,FCEV,2025,Vehicles,22000.0,False,False,True,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,PHEV,2025,Vehicles,2200000.0,False,False,True,False,False,False,False,False,False,False,True
+USA,Projection-STEPS,BEV,2030,Vehicles,7200000.0,True,False,False,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,FCEV,2030,Vehicles,8700.0,True,False,False,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,PHEV,2030,Vehicles,1600000.0,True,False,False,False,False,False,False,False,False,False,True
+USA,Projection-STEPS,BEV,2030,Vehicles,34000000.0,False,False,True,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,FCEV,2030,Vehicles,54000.0,False,False,True,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,PHEV,2030,Vehicles,8300000.0,False,False,True,False,False,False,False,False,False,False,True
+USA,Projection-STEPS,EV,2030,Milion barrels per day,1.399999976158142,False,False,False,False,False,True,False,False,True,False,False
+USA,Projection-STEPS,EV,2030,"Oil displacement, million lge",79000.0,False,False,False,False,False,False,True,False,True,False,False
+USA,Projection-STEPS,EV,2030,GWh,230000.0,False,False,False,False,True,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2030,percent,17.0,False,False,False,True,False,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2030,percent,55.0,False,True,False,False,False,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2035,percent,71.0,False,True,False,False,False,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2035,percent,36.0,False,False,False,True,False,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2035,GWh,460000.0,False,False,False,False,True,False,False,False,True,False,False
+USA,Projection-STEPS,EV,2035,Milion barrels per day,2.5,False,False,False,False,False,True,False,False,True,False,False
+USA,Projection-STEPS,EV,2035,"Oil displacement, million lge",140000.0,False,False,False,False,False,False,True,False,True,False,False
+USA,Projection-STEPS,BEV,2035,Vehicles,9300000.0,True,False,False,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,FCEV,2035,Vehicles,21000.0,True,False,False,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,PHEV,2035,Vehicles,1900000.0,True,False,False,False,False,False,False,False,False,False,True
+USA,Projection-STEPS,BEV,2035,Vehicles,74000000.0,False,False,True,False,False,False,False,True,False,False,False
+USA,Projection-STEPS,FCEV,2035,Vehicles,120000.0,False,False,True,False,False,False,False,False,False,True,False
+USA,Projection-STEPS,PHEV,2035,Vehicles,17000000.0,False,False,True,False,False,False,False,False,False,False,True
+World,Projection-STEPS,BEV,2020,Vehicles,6800000.0,False,False,True,False,False,False,False,True,False,False,False
+World,Projection-STEPS,FCEV,2020,Vehicles,7400.0,True,False,False,False,False,False,False,False,False,True,False
+World,Projection-STEPS,FCEV,2020,Vehicles,26000.0,False,False,True,False,False,False,False,False,False,True,False
+World,Projection-STEPS,EV,2020,Milion barrels per day,0.1400000005960464,False,False,False,False,False,True,False,False,True,False,False
+World,Projection-STEPS,EV,2020,"Oil displacement, million lge",8000.0,False,False,False,False,False,False,True,False,True,False,False
+World,Projection-STEPS,PHEV,2020,Vehicles,980000.0,True,False,False,False,False,False,False,False,False,False,True
+World,Projection-STEPS,PHEV,2020,Vehicles,3400000.0,False,False,True,False,False,False,False,False,False,False,True
+World,Projection-STEPS,EV,2020,GWh,21000.0,False,False,False,False,True,False,False,False,True,False,False
+World,Projection-STEPS,BEV,2020,Vehicles,2000000.0,True,False,False,False,False,False,False,True,False,False,False
+World,Projection-STEPS,EV,2020,percent,4.199999809265137,False,True,False,False,False,False,False,False,True,False,False
+World,Projection-STEPS,EV,2020,percent,0.8399999737739563,False,False,False,True,False,False,False,False,True,False,False
+World,Projection-STEPS,EV,2021,percent,1.2999999523162842,False,False,False,True,False,False,False,False,True,False,False
+World,Projection-STEPS,EV,2021,percent,8.899999618530273,False,True,False,False,False,False,False,False,True,False,False
+World,Projection-STEPS,BEV,2021,Vehicles,4700000.0,True,False,False,False,False,False,False,True,False,False,False
+World,Projection-STEPS,EV,2021,GWh,35000.0,False,False,False,False,True,False,False,False,True,False,False
+World,Projection-STEPS,PHEV,2021,Vehicles,5300000.0,False,False,True,False,False,False,False,False,False,False,True
+World,Projection-STEPS,PHEV,2021,Vehicles,1900000.0,True,False,False,False,False,False,False,False,False,False,True
+World,Projection-STEPS,EV,2021,Milion barrels per day,0.25,False,False,False,False,False,True,False,False,True,False,False
+World,Projection-STEPS,EV,2021,"Oil displacement, million lge",14000.0,False,False,False,False,False,False,True,False,True,False,False
+World,Projection-STEPS,FCEV,2021,Vehicles,42000.0,False,False,True,False,False,False,False,False,False,True,False
+World,Projection-STEPS,FCEV,2021,Vehicles,16000.0,True,False,False,False,False,False,False,False,False,True,False
+World,Projection-STEPS,BEV,2021,Vehicles,11000000.0,False,False,True,False,False,False,False,True,False,False,False
+World,Projection-STEPS,BEV,2022,Vehicles,18000000.0,False,False,True,False,False,False,False,True,False,False,False
+World,Projection-STEPS,FCEV,2022,Vehicles,15000.0,True,False,False,False,False,False,False,False,False,True,False
+World,Projection-STEPS,FCEV,2022,Vehicles,57000.0,False,False,True,False,False,False,False,False,False,True,False
+World,Projection-STEPS,EV,2022,Milion barrels per day,0.4000000059604645,False,False,False,False,False,True,False,False,True,False,False
+World,Projection-STEPS,EV,2022,"Oil displacement, million lge",24000.0,False,False,False,False,False,False,True,False,True,False,False
+World,Projection-STEPS,PHEV,2022,Vehicles,2900000.0,True,False,False,False,False,False,False,False,False,False,True
+World,Projection-STEPS,PHEV,2022,Vehicles,8000000.0,False,False,True,False,False,False,False,False,False,False,True
+World,Projection-STEPS,EV,2022,GWh,44000.0,False,False,False,False,True,False,False,False,True,False,False
+World,Projection-STEPS,BEV,2022,Vehicles,7300000.0,True,False,False,False,False,False,False,True,False,False,False
+World,Projection-STEPS,EV,2022,percent,14.0,False,True,False,False,False,False,False,False,True,False,False
+World,Projection-STEPS,EV,2022,percent,2.0999999046325684,False,False,False,True,False,False,False,False,True,False,False
+World,Projection-STEPS,EV,2023,percent,3.200000047683716,False,False,False,True,False,False,False,False,True,False,False
+World,Projection-STEPS,EV,2023,percent,18.0,False,True,False,False,False,False,False,False,True,False,False
+World,Projection-STEPS,BEV,2023,Vehicles,9500000.0,True,False,False,False,False,False,False,True,False,False,False
+World,Projection-STEPS,PHEV,2023,Vehicles,12000000.0,False,False,True,False,False,False,False,False,False,False,True
+World,Projection-STEPS,PHEV,2023,Vehicles,4300000.0,True,False,False,False,False,False,False,False,False,False,True
+World,Projection-STEPS,EV,2023,Milion barrels per day,0.7099999785423279,False,False,False,False,False,True,False,False,True,False,False
+World,Projection-STEPS,EV,2023,"Oil displacement, million lge",42000.0,False,False,False,False,False,False,True,False,True,False,False
+World,Projection-STEPS,FCEV,2023,Vehicles,66000.0,False,False,True,False,False,False,False,False,False,True,False
+World,Projection-STEPS,FCEV,2023,Vehicles,8900.0,True,False,False,False,False,False,False,False,False,True,False
+World,Projection-STEPS,BEV,2023,Vehicles,28000000.0,False,False,True,False,False,False,False,True,False,False,False
+World,Projection-STEPS,EV,2023,GWh,97000.0,False,False,False,False,True,False,False,False,True,False,False
+World,Projection-STEPS,EV,2025,GWh,220000.0,False,False,False,False,True,False,False,False,True,False,False
+World,Projection-STEPS,EV,2025,Milion barrels per day,1.399999976158142,False,False,False,False,False,True,False,False,True,False,False
+World,Projection-STEPS,EV,2025,"Oil displacement, million lge",82000.0,False,False,False,False,False,False,True,False,True,False,False
+World,Projection-STEPS,EV,2025,percent,25.0,False,True,False,False,False,False,False,False,True,False,False
+World,Projection-STEPS,EV,2025,percent,6.0,False,False,False,True,False,False,False,False,True,False,False
+World,Projection-STEPS,BEV,2025,Vehicles,15000000.0,True,False,False,False,False,False,False,True,False,False,False
+World,Projection-STEPS,FCEV,2025,Vehicles,42000.0,True,False,False,False,False,False,False,False,False,True,False
+World,Projection-STEPS,PHEV,2025,Vehicles,5800000.0,True,False,False,False,False,False,False,False,False,False,True
+World,Projection-STEPS,BEV,2025,Vehicles,55000000.0,False,False,True,False,False,False,False,True,False,False,False
+World,Projection-STEPS,FCEV,2025,Vehicles,100000.0,False,False,True,False,False,False,False,False,False,True,False
+World,Projection-STEPS,PHEV,2025,Vehicles,23000000.0,False,False,True,False,False,False,False,False,False,False,True
+World,Projection-STEPS,BEV,2030,Vehicles,33000000.0,True,False,False,False,False,False,False,True,False,False,False
+World,Projection-STEPS,FCEV,2030,Vehicles,96000.0,True,False,False,False,False,False,False,False,False,True,False
+World,Projection-STEPS,PHEV,2030,Vehicles,7700000.0,True,False,False,False,False,False,False,False,False,False,True
+World,Projection-STEPS,BEV,2030,Vehicles,180000000.0,False,False,True,False,False,False,False,True,False,False,False
+World,Projection-STEPS,FCEV,2030,Vehicles,450000.0,False,False,True,False,False,False,False,False,False,True,False
+World,Projection-STEPS,PHEV,2030,Vehicles,56000000.0,False,False,True,False,False,False,False,False,False,False,True
+World,Projection-STEPS,EV,2030,percent,16.0,False,False,False,True,False,False,False,False,True,False,False
+World,Projection-STEPS,EV,2030,Milion barrels per day,4.199999809265137,False,False,False,False,False,True,False,False,True,False,False
+World,Projection-STEPS,EV,2030,"Oil displacement, million lge",240000.0,False,False,False,False,False,False,True,False,True,False,False
+World,Projection-STEPS,EV,2030,percent,44.0,False,True,False,False,False,False,False,False,True,False,False
+World,Projection-STEPS,EV,2030,GWh,710000.0,False,False,False,False,True,False,False,False,True,False,False
+World,Projection-STEPS,EV,2035,GWh,1400000.0,False,False,False,False,True,False,False,False,True,False,False
+World,Projection-STEPS,EV,2035,percent,55.0,False,True,False,False,False,False,False,False,True,False,False
+World,Projection-STEPS,EV,2035,Milion barrels per day,7.800000190734863,False,False,False,False,False,True,False,False,True,False,False
+World,Projection-STEPS,EV,2035,"Oil displacement, million lge",450000.0,False,False,False,False,False,False,True,False,True,False,False
+World,Projection-STEPS,EV,2035,percent,31.0,False,False,False,True,False,False,False,False,True,False,False
+World,Projection-STEPS,BEV,2035,Vehicles,51000000.0,True,False,False,False,False,False,False,True,False,False,False
+World,Projection-STEPS,FCEV,2035,Vehicles,200000.0,True,False,False,False,False,False,False,False,False,True,False
+World,Projection-STEPS,PHEV,2035,Vehicles,5500000.0,True,False,False,False,False,False,False,False,False,False,True
+World,Projection-STEPS,BEV,2035,Vehicles,390000000.0,False,False,True,False,False,False,False,True,False,False,False
+World,Projection-STEPS,FCEV,2035,Vehicles,1200000.0,False,False,True,False,False,False,False,False,False,True,False
+World,Projection-STEPS,PHEV,2035,Vehicles,89000000.0,False,False,True,False,False,False,False,False,False,False,True
