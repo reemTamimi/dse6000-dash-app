@@ -280,7 +280,7 @@ app.layout = html.Div([
     ),
     html.H2('Projections', className='h2-style'),
     html.P('''We created a few machine learning models looking at the sale of fully battery-electric and plug-in hybrid
-           cars. We looked at linear regression (LR), random forest(RF), and XGBoost (XGB) models and compared them to 
+           cars. We looked at linear regression (LR), random forest (RF), and XGBoost (XGB) models and compared them to 
            the actual data. What can be observed is that the random forest and XGBoost models were more accurate than 
            the linear regression model.''',className='text-style'),
     html.Div(
