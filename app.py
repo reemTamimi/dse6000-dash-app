@@ -21,7 +21,7 @@ from plots.plot15 import create_plot15
 
 # reading cleaned dataset
 df=pd.read_csv('data/IEA-EV-dataEV salesHistoricalCars_Cleaned.csv')
-ml_df=pd.read_csv('data/ML_Predictions_Cleaned.csv')
+ml_df=pd.read_csv('data/ML_Predictions.csv')
 
 app = dash.Dash(__name__)
 server = app.server
@@ -279,17 +279,50 @@ app.layout = html.Div([
         className='graph-container'
     ),
     html.H2('Projections', className='h2-style'),
-    html.P('''We created a few machine learning models looking at the sale of fully battery-electric and plug-in hybrid
-           cars. We looked at linear regression (LR), random forest (RF), and XGBoost (XGB) models and compared them to 
+    html.P('''We created a few machine learning models looking at all parameters from our EV data. We analyzed 
+           linear regression (LR), random forest (RF), and XGBoost (XGB) models and compared them to 
            the actual data. What can be observed is that the random forest and XGBoost models were more accurate than 
            the linear regression model.''',className='text-style'),
     html.Div(
         [ 
+            html.Label("Select Category:"),
+            dcc.Checklist(
+                id='category-checklist15',
+                options=[
+                    {'label': 'Historical', 'value': 'Historical'},
+                    {'label': 'Projection-STEPS', 'value': 'Projection-STEPS'}
+                ],
+                value=['Historical'],  # Default selection
+                inline=True
+            ),
+
+            # Dropdown for Parameter
+            html.Label("Select Parameter:"),
+            dcc.Dropdown(
+                id='parameter-dropdown15',
+                options=[{'label': param, 'value': param} for param in ml_df['parameter'].unique()],
+                value=ml_df['parameter'].unique()[0]
+            ),
+
+            # Dropdown for Region
+            html.Label("Select Region:"),
             dcc.Dropdown(
                 id='region-dropdown15',
-                options=[{'label': i, 'value': i} for i in ml_df[(ml_df['mode'] == 'Cars')]['region'].unique()],
-                value='USA',
-                className='dropdown-style'   
+                options=[{'label': region, 'value': region} for region in ml_df['region'].unique()],
+                value=ml_df['region'].unique()[0]
+            ),
+
+            # Checklist for Model Predictions
+            html.Label("Select Predictions to Display:"),
+            dcc.Checklist(
+                id='model-checklist15',
+                options=[
+                    {'label': 'Linear Regression', 'value': 'Linear_Prediction'},
+                    {'label': 'Random Forest', 'value': 'RF_Prediction'},
+                    {'label': 'XGBoost', 'value': 'XGB_Prediction'}
+                ],
+                value=['Linear_Prediction'],  # Default selection
+                inline=True
             ),
             dcc.Graph(id='plot15', className='graph-style')
         ],
@@ -399,10 +432,13 @@ def update_plot(selected_region):
 
 @app.callback(
     Output('plot15', 'figure'),
-    Input('region-dropdown15', 'value')
+    Input('category-checklist15', 'value'),
+    Input('parameter-dropdown15', 'value'),
+    Input('region-dropdown15', 'value'),
+    Input('model-checklist15', 'value')
 )
-def update_plot(selected_region):
-    return create_plot15(ml_df, selected_region)
+def update_plot(selected_categories, selected_parameter, selected_region, selected_models):
+    return create_plot15(ml_df, selected_categories, selected_parameter, selected_region, selected_models)
 
 if __name__ == '__main__':
     app.run_server(debug=True, port=8080)
